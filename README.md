@@ -30,7 +30,7 @@ Learning to use Github for your Portfolio Website Assignment
 | Name                  | Study Group   | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
 |:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
-
+|Brigita Angkasa   | 10     | brigitaangkasa |https://github.com/brigitaangkasa/my_website.git  |<https://brigita-angkasa.netlify.app/>        |2020-09-01 
 
 
 
